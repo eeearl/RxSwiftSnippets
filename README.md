@@ -1,2 +1,2 @@
 # RxSwiftSnippets
-Code snippets working on Xcode for Swift
+Code snippets working on Xcode for RxSwift
